@@ -1,9 +1,4 @@
-/*
-/ ___| / ___| | | | ____|  \/  |  / \|_   _|  _ \|_ _\ \/ /
-\___ \| |   | |_| |  _| | |\/| | / _ \ | | | |_) || | \  / 
- ___) | |___|  _  | |___| |  | |/ ___ \| | |  _ < | | /  \ 
-|____/ \____|_| |_|_____|_|  |_/_/   \_\_| |_| \_\___/_/\_\
-*/
+
 
 # MPU6050 DMP Demo with Arduino
 
@@ -97,7 +92,7 @@ Modified and documented by https://github.com/schematrix
 - [Arduino External Interrupts](https://www.arduino.cc/reference/en/language/functions/external-interrupts/attachinterrupt/)
 
 ---
-##Contact & Social Media
+# Contact & Social Media
 Follow for more!
 Revised by schematrix
 
